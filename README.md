@@ -1,8 +1,8 @@
-# Razvoj-Moblinih-Aplikacija
+# Android Card Collector App
 
 This project was developed for a university course Mobile Application Development.
 
-Built an android app for card collectors using Java and the Scryfall API. 
+Built an android app for MTG card collectors using Java and the Scryfall API. 
 
 Users can create an account and search for and add cards to their collection, view card details and price.
 
